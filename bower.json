@@ -1,0 +1,17 @@
+{
+  "name": "npm i bower --save",
+  "description": "bower i bootstrap",
+  "main": "index.js",
+  "authors": [
+    "Arjun Vyas <arjun.vyas@appirio.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
